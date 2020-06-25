@@ -1,7 +1,7 @@
 # Exercício sobre OO e List em Java - Aulão #003
 ###### DevSuperior - sua carreira dev com fundamento de ensino superior
 
-[![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-youtube.png "DevSuperior no Youtube")](https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g) [![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-facebook.png "DevSuperior no Facebook")](https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g) [![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-instagram.png "DevSuperior no Instagram")](https://www.youtube.com/channel/UC3twHmWQwtqEO7u-gB_2f7g)
+[![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-youtube.png "DevSuperior no Youtube")](https://youtube.com/devsuperior) [![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-facebook.png "DevSuperior no Facebook")](https://facebook.com/devsuperior.fb) [![Image](https://s3-sa-east-1.amazonaws.com/educandoweb.com.br/img/devsuperior/bt-instagram.png "DevSuperior no Instagram")](https://instagram.com/devsuperior.ig)
 
 Assista o vídeo:
 
